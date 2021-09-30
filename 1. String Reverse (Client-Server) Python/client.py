@@ -22,3 +22,4 @@ print(s.recv(1024).decode())
 
 # close the connection
 s.close()
+print("ok")
